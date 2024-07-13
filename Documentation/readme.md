@@ -18,5 +18,5 @@ En esta sección se encontrarán los fundamentos teoricos del proyeto.
 | Integrante | Contacto | Rol | Observaciones |
 | ------------ | -------- | --- | --- |
 | Erick Matias Granillo Mejía | [ @ EMATIAS230045 ] ( https://github.com/EMATIAS230045 ) | Lider de documentacion | ✅ Revisado y aprobado. |
-| ciclali dionicio perez | [ @ KouDionicio ] ( https://github.com/KouDionicio ) | Desarrollador Backend | ✅ Revisado y aprobado. |
+| Citlalli Perez Dionicio | [ @ KouDionicio ] ( https://github.com/KouDionicio ) | Desarrollador Backend | ✅ Revisado y aprobado. |
 | Sayurid Bautista Cruz| [ @ sayuridbc ] ( https://github.com/sayuridbc ) | Desarrollador frontend | ✅ Revisado y Aprobado |
